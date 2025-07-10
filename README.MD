@@ -51,25 +51,25 @@ O visual do projeto foi inspirado em elementos nacionais e na força da coletivi
 
 O-BRASIL-E-NOSSO/
 
-├── index.html              # Página principal do site
+├── index.html              - Página principal do site
 
-├── css/                    # Estilos do site
+├── css/                    - Estilos do site
 
-│   ├── base.css            # Estilos base, reset e gerais
+│   ├── base.css            - Estilos base, reset e gerais
 
-│   ├── dark-mode.css       # Estilos para o modo escuro
+│   ├── dark-mode.css       - Estilos para o modo escuro
 
-│   └── light-mode.css      # Estilos para o modo claro
+│   └── light-mode.css      - Estilos para o modo claro
 
-├── js/                     # Scripts JavaScript
+├── js/                     - Scripts JavaScript
 
-│   ├── script.js           # Funcionalidades gerais do site
+│   ├── script.js           - Funcionalidades gerais do site
 
-│   └── toggle-theme.js     # Controle do modo claro/escuro
+│   └── toggle-theme.js     - Controle do modo claro/escuro
 
-├── data/                   # Dados usados pelo projeto (vazio por enquanto)
+├── data/                   - Dados usados pelo projeto (vazio por enquanto)
 
-└── README.md               # Documentação do projeto
+└── README.md               - Documentação do projeto
 
 
 
