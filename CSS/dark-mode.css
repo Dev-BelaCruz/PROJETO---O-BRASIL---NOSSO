@@ -1,0 +1,23 @@
+/* css/dark-mode.css */
+
+body.dark-mode {
+  background-color: #121212;
+  color: #eeeeee;
+}
+
+body.dark-mode header {
+  background: linear-gradient(#020024,#090979, #0048ff) ;
+  color: white;
+}
+
+body.dark-mode footer {
+  background: linear-gradient(#0048ff,#090979,#020024) ;
+  color: #cccccc;
+}
+
+body.dark-mode button {
+  background-color: #c3842d ;
+  color: #000000;
+  font-weight: bold;
+}
+

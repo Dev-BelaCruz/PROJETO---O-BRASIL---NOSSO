@@ -1,0 +1,27 @@
+/* css/light-mode.css */
+
+body.light-mode {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+body.light-mode header {
+    background: radial-gradient(#35ce21,#105f31,#144d15);
+    color: white;
+  
+
+}
+
+body.light-mode footer {
+     background: radial-gradient(#35ce21,#105f31,#144d15);
+    color: white;
+}
+
+body.light-mode button {
+  background-color: #c3842d;
+  color: #000000;
+  font-weight: bold;
+}
+
+
+
